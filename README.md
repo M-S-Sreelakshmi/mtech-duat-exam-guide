@@ -1,6 +1,6 @@
 # M.Tech DUAT Exam Guide — Cyber / AI
 
-**Live Site**: https://polite-sundae-61d507.netlify.app
+**Live Site**: https://duat-prep-guide.netlify.app
 
 A comprehensive interactive exam preparation guide for the DUAT07 M.Tech entrance exam (Cyber Security / AI specialization).
 
