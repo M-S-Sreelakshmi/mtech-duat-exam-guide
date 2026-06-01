@@ -1,4 +1,2 @@
-@import "tailwindcss";
-
 *, *::before, *::after { box-sizing: border-box; }
 body { font-family: system-ui, -apple-system, sans-serif; }
